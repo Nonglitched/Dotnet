@@ -1,0 +1,15 @@
+d:\Users\PABLO\Desktop\java_dev\dotnet\CsharpProjects\TestProyect7\bin\Debug\net9.0\TestProyect7.exe
+d:\Users\PABLO\Desktop\java_dev\dotnet\CsharpProjects\TestProyect7\bin\Debug\net9.0\TestProyect7.deps.json
+d:\Users\PABLO\Desktop\java_dev\dotnet\CsharpProjects\TestProyect7\bin\Debug\net9.0\TestProyect7.runtimeconfig.json
+d:\Users\PABLO\Desktop\java_dev\dotnet\CsharpProjects\TestProyect7\bin\Debug\net9.0\TestProyect7.dll
+d:\Users\PABLO\Desktop\java_dev\dotnet\CsharpProjects\TestProyect7\bin\Debug\net9.0\TestProyect7.pdb
+d:\Users\PABLO\Desktop\java_dev\dotnet\CsharpProjects\TestProyect7\obj\Debug\net9.0\TestProyect7.GeneratedMSBuildEditorConfig.editorconfig
+d:\Users\PABLO\Desktop\java_dev\dotnet\CsharpProjects\TestProyect7\obj\Debug\net9.0\TestProyect7.AssemblyInfoInputs.cache
+d:\Users\PABLO\Desktop\java_dev\dotnet\CsharpProjects\TestProyect7\obj\Debug\net9.0\TestProyect7.AssemblyInfo.cs
+d:\Users\PABLO\Desktop\java_dev\dotnet\CsharpProjects\TestProyect7\obj\Debug\net9.0\TestProyect7.csproj.CoreCompileInputs.cache
+d:\Users\PABLO\Desktop\java_dev\dotnet\CsharpProjects\TestProyect7\obj\Debug\net9.0\TestProyect7.sourcelink.json
+d:\Users\PABLO\Desktop\java_dev\dotnet\CsharpProjects\TestProyect7\obj\Debug\net9.0\TestProyect7.dll
+d:\Users\PABLO\Desktop\java_dev\dotnet\CsharpProjects\TestProyect7\obj\Debug\net9.0\refint\TestProyect7.dll
+d:\Users\PABLO\Desktop\java_dev\dotnet\CsharpProjects\TestProyect7\obj\Debug\net9.0\TestProyect7.pdb
+d:\Users\PABLO\Desktop\java_dev\dotnet\CsharpProjects\TestProyect7\obj\Debug\net9.0\TestProyect7.genruntimeconfig.cache
+d:\Users\PABLO\Desktop\java_dev\dotnet\CsharpProjects\TestProyect7\obj\Debug\net9.0\ref\TestProyect7.dll

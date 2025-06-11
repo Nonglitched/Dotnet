@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Users\\PABLO\\Desktop\\java_dev\\dotnet\\CsharpProjects\\TestProject2\\TestProject.csproj",
+      "projectUniqueName": "D:\\Users\\PABLO\\Desktop\\java_dev\\dotnet\\CsharpProjects\\TestProject3\\TestProject.csproj",
       "projectName": "TestProject",
-      "projectPath": "D:\\Users\\PABLO\\Desktop\\java_dev\\dotnet\\CsharpProjects\\TestProject2\\TestProject.csproj",
+      "projectPath": "D:\\Users\\PABLO\\Desktop\\java_dev\\dotnet\\CsharpProjects\\TestProject3\\TestProject.csproj",
       "packagesPath": "C:\\Users\\Pablo\\.nuget\\packages\\",
-      "outputPath": "D:\\Users\\PABLO\\Desktop\\java_dev\\dotnet\\CsharpProjects\\TestProject2\\obj\\",
+      "outputPath": "D:\\Users\\PABLO\\Desktop\\java_dev\\dotnet\\CsharpProjects\\TestProject3\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Pablo\\AppData\\Roaming\\NuGet\\NuGet.Config"
